@@ -1,12 +1,172 @@
 # release-candidate TODO: Replace me with version number. 
 
-# 23.0.1
+# 23.0.2
 
 ## API diffs
 
 No change in public APIs.
 
 ## Component changes
+
+### ActivityIndicator
+
+#### Changes
+
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### AnimationTiming
+
+#### Changes
+
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### AppBar
+
+#### Changes
+
+* [Fix warnings uncovered by the Xcode 8.3 static analyzer (#1298)](https://github.com/material-components/material-components-ios/commit/2ce144abd0c1d074ac32677e242d4b9508d76f40) (ianegordon)
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### ButtonBar
+
+#### Changes
+
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### Buttons
+
+#### Changes
+
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### CollectionCells
+
+#### Changes
+
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### CollectionLayoutAttributes
+
+#### Changes
+
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### Collections
+
+#### Changes
+
+* [Fix warnings uncovered by the Xcode 8.3 static analyzer (#1298)](https://github.com/material-components/material-components-ios/commit/2ce144abd0c1d074ac32677e242d4b9508d76f40) (ianegordon)
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### Dialogs
+
+#### Changes
+
+* [Fix AlertController rotation layout (#1306)](https://github.com/material-components/material-components-ios/commit/74e6232777c3d10600bffaee5b1127d9de60baa3) (ianegordon)
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### FeatureHighlight
+
+#### Changes
+
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### FlexibleHeader
+
+#### Changes
+
+* [Fix warnings uncovered by the Xcode 8.3 static analyzer (#1298)](https://github.com/material-components/material-components-ios/commit/2ce144abd0c1d074ac32677e242d4b9508d76f40) (ianegordon)
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### HeaderStackView
+
+#### Changes
+
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### Ink
+
+#### Changes
+
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### NavigationBar
+
+#### Changes
+
+* [Fix warnings uncovered by the Xcode 8.3 static analyzer (#1298)](https://github.com/material-components/material-components-ios/commit/2ce144abd0c1d074ac32677e242d4b9508d76f40) (ianegordon)
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### OverlayWindow
+
+#### Changes
+
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### PageControl
+
+#### Changes
+
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### Palettes
+
+#### Changes
+
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### ProgressView
+
+#### Changes
+
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### ShadowElevations
+
+#### Changes
+
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### ShadowLayer
+
+#### Changes
+
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### Slider
+
+#### Changes
+
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### Snackbar
+
+#### Changes
+
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### Tabs
+
+#### Changes
+
+* [Corrections for readme (#1294)](https://github.com/material-components/material-components-ios/commit/7a0e7de88a82262c8f86755124f32268796aff38) (Will Larche)
+* [Fix warnings uncovered by the Xcode 8.3 static analyzer (#1298)](https://github.com/material-components/material-components-ios/commit/2ce144abd0c1d074ac32677e242d4b9508d76f40) (ianegordon)
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+
+### Typography
+
+#### Changes
+
+* [Gigantic documentation update. (#1305)](https://github.com/material-components/material-components-ios/commit/9ed1d4349d90f0bcf13b95043cf9e741846da69c) (Scott Hyndman)
+* [Workaround for medium system font on iOS 8 (#1292)](https://github.com/material-components/material-components-ios/commit/2bda2c118e66ac04b6458a6eab88a24b3c10500c) (ianegordon)
+
+
+
+# 23.0.1
+
+## API diffs
+
+No change in public APIs.
 
 ## Component changes
 
